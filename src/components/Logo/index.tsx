@@ -1,7 +1,10 @@
+import Styles from './index.module.less'
 
 const Logo = () => {
     return (
-        <div style={{ height: 32, margin: 16, background: 'rgba(255, 255, 255, 0.2)' }} />
+        <div className={Styles.logo}>
+            LOGO
+        </div>
     )
 }
 
