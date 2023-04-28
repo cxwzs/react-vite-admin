@@ -1,7 +1,7 @@
 
 const Menu = () => {
     return (
-        <div>菜单</div>
+        <div>左侧菜单</div>
     )
 }
 
